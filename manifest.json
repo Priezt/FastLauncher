@@ -1,0 +1,14 @@
+{
+	"name": "FastLauncher",
+	"description": "Use address bar to speed up your web surfur",
+	"version": "1.0",
+	"background_page": "background.html",
+	"omnibox": {"keyword": ","},
+	"permissions": ["tabs", "http://*/*", "https://*/*"],
+	"minimum_chrome_version": "9",
+	"icons": {
+		"128": "img/128.png",
+		"48": "img/48.png",
+		"16": "img/16.png"
+	}
+}
